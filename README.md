@@ -3,7 +3,7 @@
 ## Theme
 
 
-![1](https://user-images.githubusercontent.com/31834222/84909568-0cac4200-b0e0-11ea-87b8-8e42ce7f79f7.png)
+![1](https://user-images.githubusercontent.com/31834222/84909568-0cac4200-b0e0-11ea-87b8-8e42ce7f79f7.png?v=4&s=200)
 
 ## Add function
 
